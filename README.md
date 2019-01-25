@@ -3,10 +3,12 @@ Affine Cipher
 Author: ephemeralwaves
 
 ==About==
+
 A simple mono alphabetic substitution cipher I used to help me level up my programming/math skills :) Though I would not suggest using it for anything other than education/historic purposes since it is highly insecure (by means of frequency analysis, brute force, guessing or otherwise).
 
 
 =====Software=====
+
 Tested in Python 2.7 on Windows and Gnu/Linux
 
 
